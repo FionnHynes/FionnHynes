@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Fionn Hynes
 
-<!--
-**FionnHynes/FionnHynes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 **Data Analyst | BI & Reporting | Cloud-Aware**  
+---
 
-Here are some ideas to get you started:
+## 📊 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a data analyst with a strong focus on transforming data into meaningful insights. My background in Business Information Systems and experience in cloud environments have equipped me to support projects involving data cleaning, reporting, and visualization.
+
+Most recently at **Avaya**, I worked on a cloud security migration project, where I cleaned and mapped data, organized cloud subscriptions, and built Power BI dashboards to track progress and support decision-making. I also improved internal documentation using Confluence and supported cross-team coordination efforts.
+
+---
+
+## 🚀 What I'm Working On
+
+- Improving my **SQL** for more advanced querying and data wrangling  
+- Learning **Tableau** to broaden my BI visualization skills  
+- Exploring data storytelling techniques to make insights more accessible  
+
+---
+
+## 🛠️ Tools & Skills
+
+- **Data Tools:** Power BI, Excel (advanced), Tableau (learning)  
+- **Languages:** SQL  
+- **Workflow:** JIRA, Confluence, Agile collaboration  
+- **Other:** Data Cleaning, Dashboard Design, Cloud Subscription Organization  
+
+---
+
+## 📂 Featured Projects
+
+*More project repositories coming soon — I’m organizing past work to share openly.*
+
+---
+
+## 📫 Let's Connect
+
+If you’re interested in collaborating or chatting about data, feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/fionnhynes/)
+
+Thanks for stopping by!
